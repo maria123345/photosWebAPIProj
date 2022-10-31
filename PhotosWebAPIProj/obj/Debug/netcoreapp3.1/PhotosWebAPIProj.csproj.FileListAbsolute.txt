@@ -1,0 +1,52 @@
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.csproj.AssemblyReference.cache
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.AssemblyInfoInputs.cache
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.AssemblyInfo.cs
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.csproj.CoreCompileInputs.cache
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.MvcApplicationPartsAssemblyInfo.cache
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\PhotosWebAPIProj.exe
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\PhotosWebAPIProj.deps.json
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\PhotosWebAPIProj.runtimeconfig.json
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\PhotosWebAPIProj.runtimeconfig.dev.json
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\PhotosWebAPIProj.dll
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\PhotosWebAPIProj.pdb
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\staticwebassets\PhotosWebAPIProj.StaticWebAssets.Manifest.cache
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.RazorTargetAssemblyInfo.cache
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.csproj.CopyComplete
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.dll
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.pdb
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.genruntimeconfig.cache
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Toseef Ahmad\Learning\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\PhotosWebAPIProj.exe
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\PhotosWebAPIProj.deps.json
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\PhotosWebAPIProj.runtimeconfig.json
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\PhotosWebAPIProj.runtimeconfig.dev.json
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\PhotosWebAPIProj.dll
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\PhotosWebAPIProj.pdb
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.csproj.AssemblyReference.cache
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.AssemblyInfoInputs.cache
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.AssemblyInfo.cs
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.csproj.CoreCompileInputs.cache
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\staticwebassets\PhotosWebAPIProj.StaticWebAssets.Manifest.cache
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.RazorTargetAssemblyInfo.cache
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.csproj.CopyComplete
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.dll
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.pdb
+C:\Users\MARIA\source\repos\PhotosWebAPIProj\PhotosWebAPIProj\obj\Debug\netcoreapp3.1\PhotosWebAPIProj.genruntimeconfig.cache
