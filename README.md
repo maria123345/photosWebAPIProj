@@ -11,7 +11,7 @@ implement a .NET API with following requirements:
 
 - API  have an ability to delete a file
 
-- API  be covered with tests
+- API covered with tests
 
 - project/endpoints have documented
 
