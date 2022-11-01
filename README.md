@@ -3,17 +3,17 @@ Post Photos,Get and remove
 
 implement a .NET API with following requirements:
 
-- API should have an ability to upload an image (file could be saved locally)
+- API have an ability to upload an image (file could be saved locally)
 
-- API should have an ability to list all uploaded files
+- API  have an ability to list all uploaded files
 
-- API should have an ability to list all uploaded image files
+- API  have an ability to list all uploaded image files
 
-- API should have an ability to delete a file
+- API  have an ability to delete a file
 
-- API should be covered with tests
+- API  be covered with tests
 
-- project/endpoints should be documented
+- project/endpoints have documented
 
 - add application logging (console level logging would be enough)
 
